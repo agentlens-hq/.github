@@ -1,4 +1,4 @@
-# When your AI agent breaks, AgentLens tells you exactly which decision caused it — and what to change.
+# When your AI agent breaks, AgentLens tells you exactly which decision caused it and what to change.
 
 AgentLens captures every LLM call, tool call, and error your agent makes, then analyzes the trace and tells you the root cause in plain English. Not logs you have to dig through — the answer. It runs entirely on your machine: no dashboard, no signup, no data leaves your laptop.
 
